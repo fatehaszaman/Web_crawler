@@ -1,0 +1,43 @@
+# Compiled Java
+*.class
+*.jar
+*.war
+
+# Java build dirs
+target/
+build/
+out/
+bin/
+
+# IDE / editor
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+*.swp
+*.swo
+*~
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Crawler output / local data
+Links.txt
+links.txt
+*.log
+sampled.txt
+SortedNyTimes.txt
